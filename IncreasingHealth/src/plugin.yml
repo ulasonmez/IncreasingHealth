@@ -1,0 +1,12 @@
+main: me.blume.increasinghealth.Main
+name: IncreasingHealth
+author: Blume
+version: 1.0
+api-version: 1.16
+
+commands:
+  increasehealthstart:
+    description: use it to add yourself as a hunter or someone else as a hunter
+  increasehealthstop:
+    description: use it to stop the game
+  
